@@ -30,3 +30,26 @@ Players can explore, fight, collect loot, and raise loyal pets that grow stronge
 ```bash
 pip install -r requirements.txt
 python DPGv0.3.py
+
+🕹️ Commands
+
+!exp — Go on an expedition
+!dungeon — Enter a dungeon
+!shop — Buy gear and items
+!inv — View inventory
+!petshop — Buy eggs and pet food
+!pets — View owned pets
+!eggs / !hatch — View egg progress and hatch eggs
+!pet equip — Set your active pet
+!pet feed — Feed your pet
+!pet pet — Increase relationship with your pet
+!save / !load — Save or load the game
+
+🧑‍💻 Author
+
+Name: Do
+Role: High School Senior | Aspiring Software Engineer & Game Developer
+Passion: Creating meaningful, story-driven games with strong system design and lore
+GitHub: https://github.com/dothenry1607
+
+This project is licensed under the MIT License
