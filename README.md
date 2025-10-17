@@ -29,4 +29,4 @@ Players can explore, fight, collect loot, and raise loyal pets that grow stronge
 
 ```bash
 pip install -r requirements.txt
-python DPGv0.3_pets_patched.py
+python DPGv0.3.py
